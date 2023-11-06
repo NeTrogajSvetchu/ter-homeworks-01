@@ -6,7 +6,7 @@
 
 2. 01/src
    
-![Alt text](image.png)
+![Alt text](png/2.png)
 
 3. docker
    
@@ -45,7 +45,7 @@
    
 ![Alt text](png/8.png)
 
-Задание 2.
+Задание 2. +
 
 ![Alt text](png/9.png)
 ![Alt text](png/10.png)
